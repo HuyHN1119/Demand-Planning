@@ -1,2 +1,3 @@
-# Demand-Planning
-Knowledge about Demand Planning. Fashion retail
+# Logistics-Knowledge-Base
+
+Knowledge about Logistics: Includes: Warehousing, Transporting, Inventory Management
